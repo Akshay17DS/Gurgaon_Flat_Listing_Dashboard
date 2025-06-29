@@ -1,6 +1,6 @@
 # 🏡 Gurgaon Flat Listing Analysis
 
-This Power BI dashboard presents a comprehensive analysis of residential flat listings in Gurgaon. It provides insights into pricing trends, area distribution, furnishing types, feature categories, and other key factors to support informed property buying decisions.
+**This Power BI dashboard presents a comprehensive analysis of residential flat listings in Gurgaon. It provides insights into pricing trends, area distribution, furnishing types, feature categories, and other key factors to support informed property buying decisions.**
 ---
 
 ## 📌 Objective
@@ -90,14 +90,15 @@ An interactive and minimalist dashboard designed for clarity. Key visuals includ
 
 ## 📷 Dashboard Preview
 
-
+![image](https://github.com/user-attachments/assets/7e7369d0-8399-4248-b030-4ea23ca7ac92)
 
 ---
 
-## 👤 Author
+## 👨‍💻 Author & Contact
+D Akshaykumar
 
-**D Akshaykumar**  
-🔗 LinkedIn
-🔗 GitHub
+📧 [d.akshaykumar17@gmail.com](mailto:d.akshaykumar17@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/)  
+🔗 [GitHub](https://github.com/Akshay17DS)
 
 ---
